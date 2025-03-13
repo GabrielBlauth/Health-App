@@ -4,8 +4,8 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace HealthApp.Razor.Pages
 {
-	[Authorize]
-	public class PatientModel : PageModel
+    [Authorize(Roles = "Patient")]
+    public class PatientModel : PageModel
     {
         public void OnGet()
         {
