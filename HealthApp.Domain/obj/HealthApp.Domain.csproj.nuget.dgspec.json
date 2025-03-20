@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LATITUDE\\source\\repos\\oop-a-2025-health-app-74154\\HealthApp.Domain\\HealthApp.Domain.csproj": {}
+    "C:\\Users\\LATITUDE\\Source\\Repos\\oop-a-2025-health-app-140662\\HealthApp.Domain\\HealthApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LATITUDE\\source\\repos\\oop-a-2025-health-app-74154\\HealthApp.Domain\\HealthApp.Domain.csproj": {
+    "C:\\Users\\LATITUDE\\Source\\Repos\\oop-a-2025-health-app-140662\\HealthApp.Domain\\HealthApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LATITUDE\\source\\repos\\oop-a-2025-health-app-74154\\HealthApp.Domain\\HealthApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\LATITUDE\\Source\\Repos\\oop-a-2025-health-app-140662\\HealthApp.Domain\\HealthApp.Domain.csproj",
         "projectName": "HealthApp.Domain",
-        "projectPath": "C:\\Users\\LATITUDE\\source\\repos\\oop-a-2025-health-app-74154\\HealthApp.Domain\\HealthApp.Domain.csproj",
+        "projectPath": "C:\\Users\\LATITUDE\\Source\\Repos\\oop-a-2025-health-app-140662\\HealthApp.Domain\\HealthApp.Domain.csproj",
         "packagesPath": "C:\\Users\\LATITUDE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LATITUDE\\source\\repos\\oop-a-2025-health-app-74154\\HealthApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\LATITUDE\\Source\\Repos\\oop-a-2025-health-app-140662\\HealthApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
