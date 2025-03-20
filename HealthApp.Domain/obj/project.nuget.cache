@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PGbQruKN7Xk=",
+  "dgSpecHash": "XhSSi3o3JWM=",
   "success": true,
   "projectFilePath": "C:\\Users\\LATITUDE\\Source\\Repos\\oop-a-2025-health-app-140662\\HealthApp.Domain\\HealthApp.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LATITUDE\\.nuget\\packages\\bogus\\35.6.2\\bogus.35.6.2.nupkg.sha512"
+  ],
   "logs": []
 }
