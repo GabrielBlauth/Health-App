@@ -1,0 +1,24 @@
+D:\College IT\YEAR-2\Oriented Object Program\oop-a-2025-health-app-73599\HealthApp.Domain\bin\Debug\net8.0\HealthApp.Domain.deps.json
+D:\College IT\YEAR-2\Oriented Object Program\oop-a-2025-health-app-73599\HealthApp.Domain\bin\Debug\net8.0\HealthApp.Domain.dll
+D:\College IT\YEAR-2\Oriented Object Program\oop-a-2025-health-app-73599\HealthApp.Domain\bin\Debug\net8.0\HealthApp.Domain.pdb
+D:\College IT\YEAR-2\Oriented Object Program\oop-a-2025-health-app-73599\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\College IT\YEAR-2\Oriented Object Program\oop-a-2025-health-app-73599\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.AssemblyInfoInputs.cache
+D:\College IT\YEAR-2\Oriented Object Program\oop-a-2025-health-app-73599\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.AssemblyInfo.cs
+D:\College IT\YEAR-2\Oriented Object Program\oop-a-2025-health-app-73599\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.csproj.CoreCompileInputs.cache
+D:\College IT\YEAR-2\Oriented Object Program\oop-a-2025-health-app-73599\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.sourcelink.json
+D:\College IT\YEAR-2\Oriented Object Program\oop-a-2025-health-app-73599\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.dll
+D:\College IT\YEAR-2\Oriented Object Program\oop-a-2025-health-app-73599\HealthApp.Domain\obj\Debug\net8.0\refint\HealthApp.Domain.dll
+D:\College IT\YEAR-2\Oriented Object Program\oop-a-2025-health-app-73599\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.pdb
+D:\College IT\YEAR-2\Oriented Object Program\oop-a-2025-health-app-73599\HealthApp.Domain\obj\Debug\net8.0\ref\HealthApp.Domain.dll
+C:\Users\LATITUDE\source\repos\oop-a-2025-health-app-74154\HealthApp.Domain\bin\Debug\net8.0\HealthApp.Domain.deps.json
+C:\Users\LATITUDE\source\repos\oop-a-2025-health-app-74154\HealthApp.Domain\bin\Debug\net8.0\HealthApp.Domain.dll
+C:\Users\LATITUDE\source\repos\oop-a-2025-health-app-74154\HealthApp.Domain\bin\Debug\net8.0\HealthApp.Domain.pdb
+C:\Users\LATITUDE\source\repos\oop-a-2025-health-app-74154\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LATITUDE\source\repos\oop-a-2025-health-app-74154\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.AssemblyInfoInputs.cache
+C:\Users\LATITUDE\source\repos\oop-a-2025-health-app-74154\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.AssemblyInfo.cs
+C:\Users\LATITUDE\source\repos\oop-a-2025-health-app-74154\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE\source\repos\oop-a-2025-health-app-74154\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.sourcelink.json
+C:\Users\LATITUDE\source\repos\oop-a-2025-health-app-74154\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.dll
+C:\Users\LATITUDE\source\repos\oop-a-2025-health-app-74154\HealthApp.Domain\obj\Debug\net8.0\refint\HealthApp.Domain.dll
+C:\Users\LATITUDE\source\repos\oop-a-2025-health-app-74154\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.pdb
+C:\Users\LATITUDE\source\repos\oop-a-2025-health-app-74154\HealthApp.Domain\obj\Debug\net8.0\ref\HealthApp.Domain.dll
